@@ -1,0 +1,7 @@
+# env related
+venv/
+
+*.pyc
+
+# Pycharm's B.S.
+.idea/
